@@ -1,0 +1,86 @@
+[
+  {
+    "Vintage": "1919-01-01",
+    "Country": "Spain",
+    "County": "Cava",
+    "Designation": "1919 Brut Selecció",
+    "Points": 88,
+    "Price": "$13.00",
+    "Province": "Catalonia",
+    "Title": "L'Arboc NV 1919 Brut Selecció Sparkling (Cava)",
+    "Variety": "Sparkling Blend",
+    "Winery": "L'Arboc"
+  },
+  {
+    "Vintage": "1929-01-01",
+    "Country": "Italy",
+    "County": "Vernaccia di San Gimignano",
+    "Designation": "",
+    "Points": 87,
+    "Price": "$14.00",
+    "Province": "Tuscany",
+    "Title": "Guidi 1929 2015 Vernaccia di San Gimignano",
+    "Variety": "Vernaccia",
+    "Winery": "Guidi 1929"
+  },
+  {
+    "Vintage": "1929-01-01",
+    "Country": "Italy",
+    "County": "Sangiovese di Romagna Superiore",
+    "Designation": "Prugneto",
+    "Points": 84,
+    "Price": "$15.00",
+    "Province": "Central Italy",
+    "Title": "Poderi dal Nespoli 1929 2011 Prugneto (Sangiovese di Romagna Superiore)",
+    "Variety": "Sangiovese",
+    "Winery": "Poderi dal Nespoli 1929"
+  },
+  {
+    "Vintage": "1934-01-01",
+    "Country": "Portugal",
+    "County": "",
+    "Designation": "Reserva Velho",
+    "Points": 93,
+    "Price": "$495.00",
+    "Province": "Colares",
+    "Title": "Adega Viuva Gomes 1934 Reserva Velho Red (Colares)",
+    "Variety": "Ramisco",
+    "Winery": "Adega Viuva Gomes"
+  },
+  {
+    "Vintage": "1945-01-01",
+    "Country": "France",
+    "County": "Rivesaltes",
+    "Designation": "Legend Vintage",
+    "Points": 95,
+    "Price": "$350.00",
+    "Province": "Languedoc-Roussillon",
+    "Title": "Gérard Bertrand 1945 Legend Vintage Red (Rivesaltes)",
+    "Variety": "Red Blend",
+    "Winery": "Gérard Bertrand"
+  },
+  {
+    "Vintage": "1952-01-01",
+    "Country": "Portugal",
+    "County": "",
+    "Designation": "Colheita Tawny",
+    "Points": 96,
+    "Price": "$415.00",
+    "Province": "Port",
+    "Title": "Burmester 1952 Colheita Tawny (Port)",
+    "Variety": "Port",
+    "Winery": "Burmester"
+  },
+  {
+    "Vintage": "1963-01-01",
+    "Country": "Portugal",
+    "County": "",
+    "Designation": "Colheita Tawny",
+    "Points": 96,
+    "Price": "$400.00",
+    "Province": "Port",
+    "Title": "Messias 1963 Colheita Tawny (Port)",
+    "Variety": "Port",
+    "Winery": "Messias"
+  }
+]
